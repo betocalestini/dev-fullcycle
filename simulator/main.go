@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"log"
 
-	kafka2 "github.com/betocalestini/dev-fullcycle-simulator/application/kafka"
+	kafka2 "github.com/betocalestini/dev-fullcycle/application/kafka"
 
-	"github.com/betocalestini/dev-fullcycle-simulator/infra/kafka"
+	"github.com/betocalestini/dev-fullcycle/infra/kafka"
 	ckafka "github.com/confluentinc/confluent-kafka-go/kafka"
 	"github.com/joho/godotenv"
 )

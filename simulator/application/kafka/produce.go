@@ -6,8 +6,8 @@ import (
 	"os"
 	"time"
 
-	route2 "github.com/betocalestini/dev-fullcycle-simulator/application/route"
-	"github.com/betocalestini/dev-fullcycle-simulator/infra/kafka"
+	route2 "github.com/betocalestini/dev-fullcycle/application/route"
+	"github.com/betocalestini/dev-fullcycle/infra/kafka"
 	ckafka "github.com/confluentinc/confluent-kafka-go/kafka"
 )
 

@@ -3,3 +3,45 @@ simulator/.vscode
 simulator/.env
 
 .history/
+
+
+# compiled output
+nest-api/dist
+nest-api/node_modules
+
+# Logs
+nest-api/logs
+nest-api/*.log
+nest-api/npm-debug.log*
+nest-api/pnpm-debug.log*
+nest-api/yarn-debug.log*
+nest-api/yarn-error.log*
+nest-api/lerna-debug.log*
+
+# OS
+nest-api/.DS_Store
+
+# Tests
+nest-api/coverage
+nest-api/.nyc_output
+
+# IDEs and editors
+nest-api/.idea
+nest-api/.project
+nest-api/.classpath
+nest-api/.c9/
+nest-api/*.launch
+nest-api/.settings/
+nest-api/*.sublime-workspace
+
+# IDE - VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+nest-api/.docker/dbdata
+
+
+nest-api/.history/

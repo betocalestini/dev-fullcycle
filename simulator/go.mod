@@ -1,4 +1,4 @@
-module github.com/betocalestini/dev-fullcycle-simulator
+module github.com/betocalestini/dev-fullcycle
 
 go 1.19
 
